@@ -1,0 +1,25 @@
+.cool-beans {
+  background-color: #FA33FA;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+}
+.legend {
+  font-size: 12px;
+}
+rect {
+  stroke-width: 2;
+}
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: auto;
+  height: 28px;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: rgba(175, 175, 175, 0.8);
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  padding: 5px;
+}

@@ -1,0 +1,15 @@
+{
+  "name": "piechart",
+  "version": "1.0.0",
+  "description": "a pie chart template using d3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jimmy Francis",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "eslint": "^4.18.1"
+  }
+}
