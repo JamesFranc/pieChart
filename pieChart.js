@@ -21,7 +21,7 @@ var width,
     radius,
     color = d3.scaleOrdinal().range(getColorPalette()),
     svg = d3.select('#pie-chart')
-        .append('svg')
+        .append('svg') 
         .attr('width', '100%');
 
 width = d3.select('#pie-chart').node().offsetWidth;
